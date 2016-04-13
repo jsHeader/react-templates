@@ -9,6 +9,7 @@ var svg = ['a', 'altGlyph', 'altGlyphDef', 'altGlyphItem', 'animate', 'animateMo
 var v12_svg = ver0_12_0.concat(svg);
 
 var versions = {
+    '15.0.1': v12_svg,
     '0.14.0': v12_svg,
     '0.13.1': v12_svg,
     '0.12.2': v12_svg,
